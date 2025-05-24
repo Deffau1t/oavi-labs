@@ -1,3 +1,16 @@
+---
+title: "Отчёт"
+author: "Маргарян Давид"
+lang: ru-RU
+mainfont: "Times New Roman"  # или другой шрифт с кириллицей
+documentclass: article
+geometry: "left=2cm,right=2cm,top=2cm,bottom=2cm"
+output:
+  pdf_document:
+    pdf_engine: xelatex
+    listings: true
+---
+
 # Маргарян Давид Арменович Б22-554
 
 # Лабораторная работа №1. Цветовые модели и передискретизация изображений 
