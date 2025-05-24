@@ -229,9 +229,7 @@
 
 ![](lab5/symbols_test/char_928.png) 
 
-![](lab5/symbols_test/char_929.png) 
-
-![](lab5/symbols_test/char_930.png) 
+![](lab5/symbols_test/char_929.png)
 
 ![](lab5/symbols_test/char_931.png) 
 
